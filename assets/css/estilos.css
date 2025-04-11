@@ -10,6 +10,21 @@ body {
   background-size: cover;
   background-position: left;
 }
+.bg-lila{
+  background-color: #ae759f;
+}
+
+.bg-lila:hover{
+  background-color: #ffff;
+}
+
+.borde-lila{
+  border: 1px solid #ae759f;
+}
+.borde-lila:hover{
+  background-color: #ae759f;
+  border: none;
+}
 
 /* Mis trabajos */
 
