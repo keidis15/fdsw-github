@@ -18,6 +18,12 @@ body {
   background-color: #ffff;
   border: 1px solid #ae759f;
 }
+.color-gris{
+  color: #adb5bd;
+}
+.color-gris:hover{
+  color: #ae759f;
+}
 
 .borde-lila{
   border: 1px solid #ae759f;
