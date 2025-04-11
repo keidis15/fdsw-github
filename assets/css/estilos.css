@@ -16,6 +16,7 @@ body {
 
 .bg-lila:hover{
   background-color: #ffff;
+  border: 1px solid #ae759f;
 }
 
 .borde-lila{
